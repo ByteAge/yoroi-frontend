@@ -21,7 +21,7 @@ import styles from './GeneratePinDialog.scss';
 const messages = defineMessages({
   line1: {
     id: 'wallet.voting.dialog.step.pin.line1',
-    defaultMessage: '!!!Please write down this PIN as it will be used in a later step to complete the registration process inside the Catalyst Voting App.',
+    defaultMessage: '!!!Please write down this PIN as you will need it every time you want to access the Catalyst Voting app.',
   },
 });
 
